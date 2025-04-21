@@ -3,6 +3,7 @@ Netflix_movies_TV_Shows_cleaned
 Day 1 task Elevate Labs
 Date : 21 April 2025
 Steps Completed
+
 **1. Libraries Imported**
 pandas, numpy, matplotlib.pyplot, seaborn for data analysis and visualization.
 
